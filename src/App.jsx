@@ -94,7 +94,7 @@ function EducationContent() {
     <SchoolAdd Add="University of The Assumption - Unisite Subdivision, Barangay Del
                 Pilar City of San Fernando, Pampanga Philippines"/>
 
-    <Course Course="Senior High School" />
+    <Course Course="Senior High School: STEM" />
     <SchoolAdd Add="University of The Assumption - Unisite Subdivision, Barangay Del
                 Pilar City of San Fernando, Pampanga Philippines"/>
   </div>
